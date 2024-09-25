@@ -29,5 +29,5 @@ after all of this, it checks for a win screen or a loss screen, if it wins it wi
 
 (Keep in mind anyone who will try it, that its not perfect as i said, sometimes with some bad RNG, it will keep making orders for further seats that gets taken by others who pop up and take it before it reaches the original orderer, making him wait the entire duration before he gets picked up again if this happens a lot or at the end of the day more than once it's GG).
 
-Video of it beating the game: https://drive.google.com/file/d/128E8eqzv6BMw9rDnEfO8pAhu9lP-7VyH/view?usp=drive_link
+Video of it beating the game: https://drive.google.com/file/d/128E8eqzv6BMw9rDnEfO8pAhu9lP-7VyH/view?usp=drive_link <br>
 High score was 31620, which is under the one the author of the game made by a bit, but I'm proud of it nonetheless. 
